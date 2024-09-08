@@ -16,4 +16,4 @@ Time-Based Analysis: Tracks sales trends daily, weekly, and monthly.
 Technology Used
 
 Microsoft Power BI: For data visualization and dashboard creation.
-Data Source: [Specify data sources—Excel, SQL, etc.]
+Data Source: [BlinkIt Grocery Data - Excel Sheet]
